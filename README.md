@@ -1,5 +1,3 @@
-<img width="1576" height="1035" alt="image" src="https://github.com/user-attachments/assets/d9cee3b4-30a4-46ca-9416-35dc843377b4" /># My_GameDev_Projects
-
 Welcome to my **Game Development Portfolio!** 🕹️
 
 This repository is a collection of games I have developed, showcasing my creativity, problem-solving skills, and hands-on experience in game development with Unity Game Engine. Each project reflects my journey in designing gameplay mechanics, building interactive experiences, and exploring different game development technologies.
