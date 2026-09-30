@@ -1,4 +1,4 @@
-# My_GameDev_Projects
+<img width="1576" height="1035" alt="image" src="https://github.com/user-attachments/assets/d9cee3b4-30a4-46ca-9416-35dc843377b4" /># My_GameDev_Projects
 
 Welcome to my **Game Development Portfolio!** 🕹️
 
@@ -45,9 +45,10 @@ Here are some of the games I have developed. Explore their individual repositori
 
 | Game Project | Gameplay Preview |
 |--------------|------------------|
-| Industrial Factory Environment – Unity | <img width="1012" height="507" alt="image" src="https://github.com/user-attachments/assets/c79c3763-07d8-45d3-a1cb-040190fde925" />
+| **Industrial Factory Environment – Unity** | <img width="1012" height="507" alt="image" src="https://github.com/user-attachments/assets/c79c3763-07d8-45d3-a1cb-040190fde925" />
  |
-| Game Project 2 | ![Gameplay Screenshot](YOUR_IMAGE_LINK) |
+| **AR/VR Ball Maze – Unity & Vuforia** | <img width="1576" height="1035" alt="image" src="https://github.com/user-attachments/assets/b1bf752f-8d42-44fc-9a1a-b9b74f61547f" />
+ |
 
 ---
 
