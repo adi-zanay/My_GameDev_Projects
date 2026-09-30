@@ -45,7 +45,7 @@ Here are some of the games I have developed. Explore their individual repositori
 
 | Game Project | Gameplay Preview |
 |--------------|------------------|
-| Industrial Factory Environment – Unity | ![Gameplay Screenshot](<img width="930" height="433" alt="image" src="https://github.com/user-attachments/assets/1605ea1a-86ea-4c1e-be0c-98790b2d1a5f" />
+| Industrial Factory Environment – Unity | <img width="450" height="233" alt="image" src="https://github.com/user-attachments/assets/1605ea1a-86ea-4c1e-be0c-98790b2d1a5f" />
 ) |
 | Game Project 2 | ![Gameplay Screenshot](YOUR_IMAGE_LINK) |
 
