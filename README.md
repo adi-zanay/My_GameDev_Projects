@@ -43,6 +43,11 @@ Here are some of the games I have developed. Explore their individual repositori
 
 | Game Project | Gameplay Preview |
 |--------------|------------------|
+| **Industrial Factory Environment – Unity** | <img width="1012" height="507" alt="image" src="https://github.com/user-attachments/assets/c79c3763-07d8-45d3-a1cb-040190fde925" /> |
+| **AR/VR Ball Maze – Unity & Vuforia** | <img width="1576" height="1035" alt="image" src="https://github.com/user-attachments/assets/b1bf752f-8d42-44fc-9a1a-b9b74f61547f" /> |
+
+| Game Project | Gameplay Preview |
+|--------------|------------------|
 | **Industrial Factory Environment – Unity** | <img width="1012" height="507" alt="image" src="https://github.com/user-attachments/assets/c79c3763-07d8-45d3-a1cb-040190fde925" />
  |
 | **AR/VR Ball Maze – Unity & Vuforia** | <img width="1576" height="1035" alt="image" src="https://github.com/user-attachments/assets/b1bf752f-8d42-44fc-9a1a-b9b74f61547f" />
